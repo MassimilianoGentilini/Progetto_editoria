@@ -25,7 +25,8 @@ Il progetto è stato realizzato utilizzando fonti di informazioni libere e gratu
 ```mermaid
 graph LR
     A[Tema Progetto] --> B(Estrazione informazioni dalle fonti)
-    B --> C{Svolgimento operazioni sul file attraverso codici Python}
+    B --> C{Svolgimento operazioni sul
+file attraverso codici Python}
     C --> D(Estrazione metadati da fonti Wikipedia)
     C --> E(Conversione formati in .html, .docx, ePub)
     C --> F(Modifiche al file Markdown)
