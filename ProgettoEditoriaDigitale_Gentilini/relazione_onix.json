@@ -1,0 +1,42 @@
+{
+    "Product": {
+        "Title": "Critical and Historical Essays",
+        "Contributor": {
+            "PrimaryAuthor": "Edward MacDowell",
+            "OtherAuthors": [
+                ""
+            ]
+        },
+        "Publisher": "Università degli Studi di Milano",
+        "PublicationDate": "2025-02-10",
+        "ISBN": {
+            "title": "Critical and Historical Essays",
+            "contributor": {
+                "primary_author": "Edward MacDowell",
+                "other_authors": [
+                    ""
+                ]
+            },
+            "publisher": "Università degli Studi di Milano",
+            "publication_date": "2025-02-10",
+            "audience": "Professionisti, Accademici",
+            "format": {
+                "type": "Digital",
+                "file_format": "epub"
+            },
+            "price": {
+                "amount": "0",
+                "currency": "EUR"
+            }
+        },
+        "Audience": "Professionisti, Accademici",
+        "Format": {
+            "type": "Digital",
+            "file_format": "epub"
+        },
+        "Price": {
+            "amount": "0",
+            "currency": "EUR"
+        }
+    }
+}
