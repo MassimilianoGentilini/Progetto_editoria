@@ -14,7 +14,7 @@ Questo è un progetto di editoria. Puoi scaricare l'ebook cliccando qui:
 
 ## Documento .docx
 Questo è un progetto di editoria. Puoi scaricare il documento cliccando qui: 
-[Scarica documento](https://github.com/MassimilianoGentilini/Progetto_editoria/raw/main/ProgettoEditoriaDigitale_Gentilini/output.docx)
+👉 [Scarica documento](https://github.com/MassimilianoGentilini/Progetto_editoria/raw/main/ProgettoEditoriaDigitale_Gentilini/output.docx)
 
 
 ## Struttura del Progetto
