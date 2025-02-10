@@ -1,0 +1,23 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Book",
+    "name": "Critical and Historical Essays",
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Edward MacDowell"
+        }
+    ],
+    "datePublished": "2025-02-10",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Università degli Studi di Milano"
+    },
+    "genre": [
+        "Critical and Historical Essays",
+        "Music"
+    ],
+    "language": "en",
+    "inLanguage": "en",
+    "format": "text/plain"
+}
