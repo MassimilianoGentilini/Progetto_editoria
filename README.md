@@ -20,7 +20,7 @@ Questo è un progetto di editoria. Puoi scaricare il documento cliccando qui:
 ## Struttura del Progetto
 
 
-## Flusso
+## Flusso di gestione documentale
 
 ```mermaid
 graph LR
