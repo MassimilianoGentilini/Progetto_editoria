@@ -18,7 +18,7 @@ Questo è un progetto di editoria. Puoi scaricare il documento cliccando qui:
 
 
 ## Struttura del Progetto
-Il progetto è stato realizzato utilizzando fonti di informazioni libere e gratuite e script di Python. Il formato .html è stato realizzato utilizzando come linguaggi di programmazione HTML,Java Script e CSS. Gli altri due formati disponibili, .epub e .docx sono stati ottenuti grazie a degli script di Python dediti all'automatizzazione del processo di produzione editoriale permettendo così di velocizzare la gestione, trasformazione e pubblicazione dei documenti. All'interno della repository saranno quindi disponibili script di Python per l'automatizzazione del processo di produzione editoriale, oltre ai formati finali, i metadati,la bibliografia
+Il progetto è stato realizzato utilizzando fonti di informazioni libere e gratuite e script di Python. Il formato .html è stato realizzato utilizzando come linguaggi di programmazione HTML,Java Script e CSS. Gli altri due formati disponibili, .epub e .docx sono stati ottenuti grazie a degli script di Python dediti all'automatizzazione del processo di produzione editoriale permettendo così di velocizzare la gestione, trasformazione e pubblicazione dei documenti. All'interno della repository saranno quindi disponibili script di Python per l'automatizzazione del processo di produzione editoriale, oltre ai formati finali, i metadati e la bibliografia.
 
 ## Flusso di gestione documentale
 
