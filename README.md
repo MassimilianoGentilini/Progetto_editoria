@@ -22,15 +22,16 @@ Questo è un progetto di editoria. Puoi scaricare il documento cliccando qui:
 
 ## Flusso
 
+```mermaid
 graph LR
-A[Tema Progetto] --> B(Estrazione informazioni dalle fonti)
-B --> C{Svolgimento operazioni sul file attraverso codici Python}
-C --> D(Estrazione metadati da fonti wikipedia)
-C --> E(Conversione formati in .html,.docx,ePub)
-C --> F(Modifiche al file markdown)
-C --> g(Creazione schema.org e ONIX)
-D --> H(Aggiunta dettagli estetici e funzionali)
-E --> H
-F --> H
-G --> H
-G --> I{Caricamento finale dei file}
+    A[Tema Progetto] --> B(Estrazione informazioni dalle fonti)
+    B --> C{Svolgimento operazioni sul file attraverso codici Python}
+    C --> D(Estrazione metadati da fonti Wikipedia)
+    C --> E(Conversione formati in .html, .docx, ePub)
+    C --> F(Modifiche al file Markdown)
+    C --> G(Creazione schema.org e ONIX)
+    D --> H(Aggiunta dettagli estetici e funzionali)
+    E --> H
+    F --> H
+    G --> H
+    H --> I{Caricamento finale dei file}
