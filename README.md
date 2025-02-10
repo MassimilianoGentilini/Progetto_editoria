@@ -1,9 +1,8 @@
 # Progetto di Editoria Digitale
+Progetto realizzato per il corso di Editoria Digitale del prof. Ceravolo Paolo
 
-## HTML
-
-Puoi aprire il file HTML direttamente dal repository:  
-[index.html](index.html)
+## Pagina web
+https://MassimilianoGentilini.github.io/index.html/
 
 
 ## Struttura del Progetto
